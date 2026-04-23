@@ -1,12 +1,14 @@
 # 📊 Netflix Data Analysis Project
-🟦 Overview
+
+## 🟦 Overview
 
 This project explores the Netflix Movies and TV Shows to uncover insights about Netflix’s content library. The analysis focuses on understanding content distribution, trends over time, and key characteristics such as genres, countries, and movie durations.
 
 The goal of this project is to demonstrate practical data analysis skills including data cleaning, transformation, visualization, and storytelling using Python.
 
+---
 
-🟦 Objectives
+## 🟦 Objectives
 
 - Analyze the distribution of Movies vs TV Shows
 - Identify the top contributing countries
@@ -16,7 +18,7 @@ The goal of this project is to demonstrate practical data analysis skills includ
 
 ---
 
-🟦 Tools & Technologies
+## 🟦 Tools & Technologies
 - Python
 - Pandas
 - NumPy
@@ -26,7 +28,7 @@ The goal of this project is to demonstrate practical data analysis skills includ
 
 ---
 
-🟦 Data Cleaning
+## 🟦 Data Cleaning
 
 Key data preprocessing steps included:
 
@@ -38,32 +40,32 @@ Key data preprocessing steps included:
 
 ---
 
-🟦 Exploratory Data Analysis (EDA)
+## 🟦 Exploratory Data Analysis (EDA)
 
-📊 Content Type Distribution
+### Content Type Distribution
 
 - Movies dominate the platform compared to TV Shows.
   
-🌍 Top Countries
+### Top Countries
 
 - The United States contributes the largest share of content.
 - Missing country values were labeled as “Unknown” and excluded from analysis.
 - Most Common Genres
 - Drama and International Movies are among the most frequent categories.
   
-📅 Growth Over Time
+### Growth Over Time
 
 - Significant growth in content additions observed after 2015.
 - Peak content addition occurred between 2018 and 2020.
   
-🎬 Release Year vs Duration
+### Release Year vs Duration
 
 - Most movies fall within the 80–120 minutes range.
 - Movie duration has remained relatively consistent over time.
 
 ---
 
-🟦 Visualizations
+## 🟦 Visualizations
 
 The project includes:
 
@@ -74,7 +76,7 @@ The project includes:
 
 ---
 
-🟦 Key Insights 💡
+## 🟦 Key Insights 💡
 
 - Netflix’s catalog is heavily dominated by movies.
 - Content production is concentrated in a few countries.
@@ -84,20 +86,23 @@ The project includes:
 
 ---
 
-🟦 Conclusion
+## 🟦 Conclusion
 
 This analysis provides a clear overview of Netflix’s content trends and demonstrates how data can be used to extract meaningful insights. The project highlights essential data analysis techniques that are applicable in real-world scenarios.
 
 ---
 
-🟦 Future Improvements 🚀
+## 🟦 Future Improvements 🚀
 
-- Build an interactive dashboard (Power BI)
 - Apply machine learning models for content prediction
 
 ---
 
-Author
+## 👤 Author  
+**Puseletso Motsoari**  
 
-Puseletso Motsoari
-Aspiring Data Analyst | Python • SQL • Power BI • Excel
+📧 Email: motsoaripuseletso8@gmail.com  
+🔗 GitHub: https://github.com/Puseletso10  
+💼 LinkedIn: www.linkedin.com/in/puseletso-motsoari  
+
+---
